@@ -1,5 +1,5 @@
 # ML-CIA2-
-<b><center>Implement the above using Flask and MySQL for user based login.</center></b>
+<b><center>Implemented using Flask and MySQL for user based login.</center></b>
 1. Create a login page and connect it to MySQL database.
 
 
