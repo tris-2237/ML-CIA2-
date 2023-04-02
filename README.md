@@ -8,7 +8,7 @@
 
 
 
-3.Taken the students marks dataset which predicts the average marks obtained by the student based on the number of courses he/she takes as well as the time taken to study the courses
+ 3.Taken the students marks dataset which predicts the average marks obtained by the student based on the number of courses he/she takes as well as the time taken to  study the courses
 
 
 
