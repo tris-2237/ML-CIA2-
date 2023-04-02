@@ -1,0 +1,56 @@
+<html lang="en">
+<head>
+<style> 
+        h1 {text-align: center;}  
+        Body {  
+          font-family: Calibri, Helvetica, sans-serif;  
+          background-color: rgb(161, 215, 208);  
+        }  
+        button {   
+               background-color: greenyellow;   
+               width: 100%;  
+                color: black;   
+                padding: 15px;   
+                margin: 10px 0px;   
+                border: none;   
+                cursor: pointer;   
+                 }   
+         form {   
+                border: 3px solid lightcyan;   
+            }   
+         input[type=text] {   
+                width: 100%;   
+                margin: 8px 0;  
+                padding: 12px 20px;   
+                display: inline-block;   
+                border: 1px solid peru ;   
+                box-sizing: border-box;   
+            }  
+         button:hover {   
+                opacity: 0.7;   
+            }   
+          .cancelbtn {   
+                width: auto;   
+                padding: 10px 18px;  
+                margin: 10px 5px;  
+            }   
+                
+             
+         .container {   
+                padding: 10px;   
+                background-color: lightblue;  
+            }   
+</style>   
+</head>    
+<body>
+<h1>Login</h1>  
+    <form action="/login" method="Post">
+        <input type="text" name="Uname" placeholder="Enter Username"/> <!--create a text box-->
+        <br />
+        <input type="text" name="Passwd" placeholder="Enter Password"/>
+        <br />
+        <button type="submit">Login</button>
+        <!--<input type="submit" value="login" />-->
+        </form>
+</body>
+</html>
