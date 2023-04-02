@@ -12,16 +12,13 @@
 
 
 
-3. In the success page, provide options for the user to enter the required inputs to predict the students marks.
+4. In the success page, provide options for the user to enter the required inputs to predict the students marks.
 
 
 
-4. On submitting the form, the prediction function should be called and it has to return the result.
+5. On submitting the form, the prediction function should be called and it has to return the result.
 
 
 
-5. display the predicted average marks on another page.
+6. display the predicted average marks on another page.
 
-
-
- Upload the code in github and share the link in the LMS page. You are free to use classification / regression or recommendation systems.
